@@ -1,9 +1,9 @@
 
 
-# Proyek Pembersihan Data: Dataset Kendaraan Listrik dan Perusahaan
+# Tugas Pembersihan Data: Dataset Kendaraan Listrik dan Perusahaan
 
 ## Gambaran Umum
-Proyek ini bertujuan untuk melakukan analisis awal dan pembersihan data pada dua dataset:
+Tugas ini bertujuan untuk melakukan analisis awal dan pembersihan data pada dua dataset:
 1. **Dataset Kendaraan Listrik** (`Electric_Vehicle_Population_Data.csv`): Berisi informasi kendaraan listrik yang terdaftar di Washington State, termasuk kolom seperti `Make`, `Model Year`, dan `City`.
 2. **Dataset Perusahaan** (`company_esg_financial_dataset.csv`): Berisi data finansial dan ESG perusahaan, termasuk kolom seperti `CompanyName`, `Revenue`, dan `Industry`.
 
@@ -11,8 +11,8 @@ Proses meliputi eksplorasi awal dataset, penanganan masalah data (missing values
 
 ---
 
-## Struktur Proyek
-Proyek ini terdiri dari tiga skrip Python utama:
+## Struktur Tugas
+Tugas ini terdiri dari tiga skrip Python utama:
 
 1. **`explore_data.py`**: Eksplorasi awal dataset kendaraan untuk memahami struktur dan statistik dasar.
 2. **`clean_data.py`**: Penanganan masalah data seperti missing values, outliers, noise, dan duplikat pada dataset kendaraan.
@@ -158,7 +158,7 @@ print("\nDataset dengan nama yang sudah dibersihkan disimpan.")
      ```
 
 2. **Unduh Dataset**:
-   - Simpan `Electric_Vehicle_Population_Data.csv` dan `company_esg_financial_dataset.csv` di direktori proyek.
+   - Simpan `Electric_Vehicle_Population_Data.csv` dan `company_esg_financial_dataset.csv` di direktori Tugas.
 
 3. **Jalankan Skrip**:
    - Ganti `'path_to_file'` dengan lokasi file dataset Anda.
